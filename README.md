@@ -1,5 +1,5 @@
 # SimpleBO
-Simple buffer overflow scripts. Built fro vulnserver but can be edited for use elsewhere.
+Simple buffer overflow scripts. Built for vulnserver but can be edited for use elsewhere.
 
 1. Fuzzer
 2. offsetFinder
